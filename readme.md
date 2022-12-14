@@ -1,18 +1,33 @@
 ﻿# Hibridacion segun Manovich
 
+La fusión e hibridación de medios puede ser vista como una cooperación entre los diversos medios de comunicación para que los consumidores de uno se conviertan en usuarios del otro. Un ejemplo puede ser el de la cooperación entre videojuegos y cine para que los consumidores del cine acaben por probar los videojuegos y viceversa. De esta manera cada medio de comunicación aparte de trabajar hacia sus propios objetivos ayuda a formar un entorno global donde se juntan todos los usuarios de los diferentes medios. Esto forma lo que se conoce como "Ecología de medios híbridos".
+
+
+## Resident Evil (Saga de videojuegos y cine)
+
+Vamos a tratar la saga de videojuegos y a la vez saga cinematográfica de “Resident Evil”, un videojuego que surgio en 1996 creado por Capcom. es una serie de videojuegos de terror y una franquicia de medios, entre los que se incluyen manga, novelas, películas y coleccionables como figuras de acción, guías de estrategia y otras publicaciones.
+
+  
+
+Así como en la saga principal de videojuegos, como en los otros medios, la trama gira en torno al mismo conflicto: la amenaza bioterrorista. Un peligroso virus se ha propagado por error o intencionalmente por la Corporación Umbrella, este al infectar a los humanos, los transforma en seres amorfos y monstruos.
+
+  
+
+Ya con esta introducion podemos apreciar como engloba o agrupa una serie de productos que han dado lugar a diversos hibridos y se extiende por la cultura de los fans que siguen la saga Resident Evil, asi que es una **evidente hibridación de medios.1**
+
+  
+
+Esta saga de videojuegos y cinematográfia se puede considerar una **remezcla de medios 2**, ya que utilizan imágenes reales pero al mismo tiempo se emplea tipografía y transiciones preparadas por ordenador, esto hace que combinado con efectos Croma y diversas técnicas, de lugar a representar a Zombies y demás criaturas. De esta manera es manifiesto que Resident Evil ha generado un gran impacto en el ambito de la cultura por la hibridez de medios que utiliza.
+
+  
+
+El fruto de esta revolución es un **nuevo lenguaje visual híbrido 3** de imágenes junto con la introducción de textos y transcripciones que representa el juego para interactuar con el jugador o plataforma visual, como puede ser el cine, ya que la hibridación de videojuego y afición al mismo dio lugar a que la saga Resident Evil se emitiera en cines en el año 2002.
 
 
 
-# Files
+## Smartwatch 
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
-# Rodrigo
-Hola
-
-## Create files and folders
-
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
 ## Switch to another file
 
