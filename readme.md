@@ -63,5 +63,5 @@ También encontramos dispositivos que se encuentran entre el reloj convencional 
 
 Se trata de dispositivos que, como su propio nombre indica, se encuentran a medio camino entre un reloj convencional y un smartwatch con pantalla. Y especificamos "con pantalla" porque sí se trata de relojes inteligentes. La principal diferencia radica en que carecen de una pantalla física o táctil en la que se visualicen las notificaciones. Algo que permite que su batería se alargue durante meses y que evita que tengamos que cargarlos constantemente. De hecho esa es una de sus principales virtudes. No obstante, suelen recabar los pasos que da el usuario, controlar su sueño, e incluso incluyen sistemas que permiten disparar la cámara desde el propio reloj, configurar la alarma y sentir una vibración cada vez que recibamos una llamada, mensaje o similar.
 
-![foto] (https://images.pexels.com/photos/267391/pexels-photo-267391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![foto](https://images.pexels.com/photos/267391/pexels-photo-267391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
