@@ -7,7 +7,7 @@ La fusión e hibridación de medios puede ser vista como una cooperación entre 
 
 Vamos a tratar la saga de videojuegos y a la vez saga cinematográfica de “Resident Evil”, un videojuego que surgio en 1996 creado por Capcom. es una serie de videojuegos de terror y una franquicia de medios, entre los que se incluyen manga, novelas, películas y coleccionables como figuras de acción, guías de estrategia y otras publicaciones.
 
-  
+![foto](https://gcdn.lanetaneta.com/wp-content/uploads/2022/03/La-serie-Resident-Evil-de-Netflix-esta-conectada-a-los-780x470.jpg)
 
 Así como en la saga principal de videojuegos, como en los otros medios, la trama gira en torno al mismo conflicto: la amenaza bioterrorista. Un peligroso virus se ha propagado por error o intencionalmente por la Corporación Umbrella, este al infectar a los humanos, los transforma en seres amorfos y monstruos.
 
