@@ -50,7 +50,7 @@ Podemos observar como se trata de un reloj de muñeca que no solo muestra la hor
 
 Antes de utilizar una brújula, un podómetro que nos media las pulsaciones, un navegador gps que muestre coordenadas en el caso de que nos guste la experiencia de hacer rutas por montaña o ciudad, el resultado ahora es un nuevo híbrido que **combina las opciones de muchos medios aislados** que existían previamente.
 
-![Distintos medios en Uno](https://images.pexels.com/photos/3563627/pexels-photo-3563627.jpeg?auto=compress&cs=tinysrgb&w=1600)
+![Distintos medios en Uno|100](https://images.pexels.com/photos/3563627/pexels-photo-3563627.jpeg?auto=compress&cs=tinysrgb&w=1600)
 
 También podemos ver que es un **evolución del medio** , ya que aúna distintos medios de software anteriores en ahora uno solo, ahora la materia prima del software, es decir, los materiales físicos y herramientas se **trasladan al hardware** .
 
