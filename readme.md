@@ -5,7 +5,7 @@ La fusión e hibridación de medios puede ser vista como una cooperación entre 
 
 ## Resident Evil (Saga de videojuegos y cine)
 
-Vamos a tratar la saga de videojuegos ya la vez saga cinematográfica de “Resident Evil”, un videojuego que surgió en 1996 creado por **Capcom**. es una serie de videojuegos de terror y una franquicia de medios, entre los que se incluyen manga, novelas, películas y coleccionables como figuras de acción, guías de estrategia y otras publicaciones.
+Vamos a tratar la saga de videojuegos y a la vez saga cinematográfica “Resident Evil”, un videojuego que surgió en 1996 creado por **Capcom**. Es una serie de videojuegos de terror y una franquicia de medios, entre los que se incluyen manga, novelas, películas y coleccionables como figuras de acción, guías de estrategia y otras publicaciones.
 
 ![foto]( https://gcdn.lanetaneta.com/wp-content/uploads/2022/03/La-serie-Resident-Evil-de-Netflix-esta-conectada-a-los-780x470.jpg )
 
